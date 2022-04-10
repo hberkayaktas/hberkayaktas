@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hberkayaktas
-- 👀 I’m interested in python
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in React
+- 🌱 I’m currently learning Node Js
 
 - 📫 How to reach me hberkayaktas@gmail.com
 
