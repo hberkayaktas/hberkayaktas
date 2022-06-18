@@ -8,8 +8,8 @@ I'm learning web programming. I share my programming notes and projects here.
 
 * 🌍  I'm based in Turkey ORDU
 * ✉️  You can contact me at [hberkayaktas@gmail.com](mailto:hberkayaktas@gmail.com)
-* 🧠  I'm learning Node JS
-* ⚡  I’m interested in React 👀
+* 🧠  I'm learning React Native
+* ⚡  I’m interested in Docker 👀
 
 ### Skills
 
