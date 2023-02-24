@@ -6,20 +6,18 @@ Fullstack developer
 
 I'm learning web programming. I share my programming notes and projects here.
 
+* 🔭 I’m currently working on **shopiget**
+* 🌱 I’m currently learning **everything including devops**
+* 📫 How to reach me **hberkayaktas@gmail.com**
 * 🌍  I'm based in Turkey ORDU
 * ✉️  You can contact me at [hberkayaktas@gmail.com](mailto:hberkayaktas@gmail.com)
-* 🧠  I'm learning Kubernetes
-* ⚡  I’m interested in Nomad 👀
+* ⚡🧠  I’m interested in Nomad 👀
 
 ### Skills
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hberkayaktas&label=Profile%20views&color=0e75b6&style=flat" alt="hberkayaktas" /> </p>
 
-- 🔭 I’m currently working on **shopiget**
 
-- 🌱 I’m currently learning **everything including devops**
-
-- 📫 How to reach me **hberkayaktas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,6 +39,4 @@ I'm learning web programming. I share my programming notes and projects here.
 
 <p align="left"> <a href="https://www.github.com/hberkayaktas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hberkayaktas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hberkayaktas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<a href="https://github.com/hberkayaktas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hberkayaktas&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
