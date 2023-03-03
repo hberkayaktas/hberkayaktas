@@ -10,7 +10,7 @@ I'm learning web programming. I share my programming notes and projects here.
 * 🔭 I’m currently working on **shopiget**
 * 🌱 I’m currently learning **everything including devops**
 * 📫 How to reach me **hberkayaktas@gmail.com**
-* ⚡🧠  I’m interested in Nomad 👀
+* ⚡🧠  I’m interested in Nomad & Openshift 4 👀
 
 ### Skills
 
