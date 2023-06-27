@@ -7,7 +7,6 @@ Fullstack developer
 I'm learning web programming. I share my programming notes and projects here.
 
 * 🌍  I'm based in Turkey ORDU
-* 🔭 I’m currently working on **shopiget**
 * 🌱 I’m currently learning **devops**
 * 📫 How to reach me **hberkayaktas@gmail.com**
 * ⚡🧠  I’m interested in Nomad & Openshift 4 👀
