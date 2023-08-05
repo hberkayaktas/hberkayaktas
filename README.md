@@ -23,7 +23,7 @@ I'm learning web programming. I share my programming notes and projects here.
 <a href="https://twitter.com/hberkayaktas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hberkayaktas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hberkayaktas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hberkayaktas" height="30" width="40" /></a>
 <a href="https://instagram.com/hberkayaktas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hberkayaktas" height="30" width="40" /></a>
-<a href="https://medium.com/hberkayaktas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hberkayaktas" height="30" width="40" /></a>
+<a href="https://medium.com/@hberkayaktas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hberkayaktas" height="30" width="40" /></a>
 <a href="https://www.github.com/hberkayaktas" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="30" style="max-width: 100%;" align="center"></a>
 </p>
 
